@@ -1,0 +1,464 @@
+[
+  {
+    "Postcode": "SO41 8DJ",
+    "Name": "Surgery 35",
+    "Latitude": 50.7505949,
+    "Longitude": -1.5547587
+  },
+  {
+    "Postcode": "SO51 8XA",
+    "Name": "Surgery 1",
+    "Latitude": 50.990012,
+    "Longitude": -1.5000241
+  },
+  {
+    "Postcode": "SO16 4QX",
+    "Name": "Surgery 2",
+    "Latitude": 50.920983,
+    "Longitude": -1.4475318
+  },
+  {
+    "Postcode": "SO16 5DR",
+    "Name": "Surgery 3",
+    "Latitude": 50.936266,
+    "Longitude": -1.4498085
+  },
+  {
+    "Postcode": "SO14 6WP",
+    "Name": "Surgery 4",
+    "Latitude": 50.9222488,
+    "Longitude": -1.3996548
+  },
+  {
+    "Postcode": "SO51 8JH",
+    "Name": "Surgery 5",
+    "Latitude": 50.9907512,
+    "Longitude": -1.5000069
+  },
+  {
+    "Postcode": "SO15 3HF",
+    "Name": "Surgery 7",
+    "Latitude": 50.9185662,
+    "Longitude": -1.4303503
+  },
+  {
+    "Postcode": "BH25 7PA",
+    "Name": "Surgery 8",
+    "Latitude": 50.7387191,
+    "Longitude": -1.6727637
+  },
+  {
+    "Postcode": "SO18 6BX",
+    "Name": "Surgery 9",
+    "Latitude": 50.9151613,
+    "Longitude": -1.3571184
+  },
+  {
+    "Postcode": "SO32 1HF",
+    "Name": "Surgery 10",
+    "Latitude": 50.9698953,
+    "Longitude": -1.2649375
+  },
+  {
+    "Postcode": "SO18 1HH",
+    "Name": "Surgery 11",
+    "Latitude": 50.9208952,
+    "Longitude": -1.3723968
+  },
+  {
+    "Postcode": "SO45 1RE",
+    "Name": "Surgery 12",
+    "Latitude": 50.8203458,
+    "Longitude": -1.366455
+  },
+  {
+    "Postcode": "SO31 4JT",
+    "Name": "Surgery 13",
+    "Latitude": 50.8623,
+    "Longitude": -1.3291949
+  },
+  {
+    "Postcode": "SO32 2TH",
+    "Name": "Surgery 14",
+    "Latitude": 50.9462295,
+    "Longitude": -1.1959008
+  },
+  {
+    "Postcode": "SO42 7YS",
+    "Name": "Surgery 16",
+    "Latitude": 50.8172358,
+    "Longitude": -1.4180736
+  },
+  {
+    "Postcode": "SO16 4BN",
+    "Name": "Surgery 17",
+    "Latitude": 50.9218794,
+    "Longitude": -1.4494357
+  },
+  {
+    "Postcode": "SO16 3BE",
+    "Name": "Surgery 18",
+    "Latitude": 50.9381571,
+    "Longitude": -1.3857236
+  },
+  {
+    "Postcode": "SO31 8AB",
+    "Name": "Surgery 21",
+    "Latitude": 50.8852436,
+    "Longitude": -1.3054027
+  },
+  {
+    "Postcode": "SO41 9AZ",
+    "Name": "Surgery 20",
+    "Latitude": 50.7603672,
+    "Longitude": -1.5370408
+  },
+  {
+    "Postcode": "SO16 4EW",
+    "Name": "Surgery 21",
+    "Latitude": 50.9279957,
+    "Longitude": -1.4468024
+  },
+  {
+    "Postcode": "BH25 5AR",
+    "Name": "Surgery 22",
+    "Latitude": 50.7625975,
+    "Longitude": -1.6419338
+  },
+  {
+    "Postcode": "SO32 2TH",
+    "Name": "Surgery 25",
+    "Latitude": 50.9462295,
+    "Longitude": -1.1959008
+  },
+  {
+    "Postcode": "SP6 1LD",
+    "Name": "Surgery 26",
+    "Latitude": 50.9353912,
+    "Longitude": -1.795462
+  },
+  {
+    "Postcode": "SO45 4JG",
+    "Name": "Surgery 27",
+    "Latitude": 50.8540132,
+    "Longitude": -1.4104504
+  },
+  {
+    "Postcode": "SO22 6FP",
+    "Name": "Surgery 28",
+    "Latitude": 51.0845122,
+    "Longitude": -1.3274348
+  },
+  {
+    "Postcode": "SO53 2FW",
+    "Name": "Surgery 29",
+    "Latitude": 50.9839123,
+    "Longitude": -1.3837438
+  },
+  {
+    "Postcode": "SO30 4DE",
+    "Name": "Surgery 30",
+    "Latitude": 50.9040101,
+    "Longitude": -1.3108219
+  },
+  {
+    "Postcode": "SO17 1QF",
+    "Name": "Surgery 31",
+    "Latitude": 50.9321089,
+    "Longitude": -1.4000939
+  },
+  {
+    "Postcode": "SO15 5HL",
+    "Name": "Surgery 32",
+    "Latitude": 50.9234622,
+    "Longitude": -1.4233287
+  },
+  {
+    "Postcode": "SO18 5FL",
+    "Name": "Surgery 33",
+    "Latitude": 50.9156665,
+    "Longitude": -1.3459221
+  },
+  {
+    "Postcode": "SO16 8LJ",
+    "Name": "Surgery 34",
+    "Latitude": 50.949444,
+    "Longitude": -1.4561681
+  },
+  {
+    "Postcode": "SO43 7FJ",
+    "Name": "Surgery 36",
+    "Latitude": 50.8791074,
+    "Longitude": -1.5879918
+  },
+  {
+    "Postcode": "SO40 4UP",
+    "Name": "Surgery 37",
+    "Latitude": 50.8859588,
+    "Longitude": -1.4556417
+  },
+  {
+    "Postcode": "SO41 0NJ",
+    "Name": "Surgery 39",
+    "Latitude": 50.7253825,
+    "Longitude": -1.6045849
+  },
+  {
+    "Postcode": "SO17 1EZ",
+    "Name": "Surgery 40",
+    "Latitude": 50.9254558,
+    "Longitude": -1.3984792
+  },
+  {
+    "Postcode": "SO40 8UU",
+    "Name": "Surgery 41",
+    "Latitude": 50.9237763,
+    "Longitude": -1.5102996
+  },
+  {
+    "Postcode": "BH25 6RJ",
+    "Name": "Surgery 42",
+    "Latitude": 50.7526373,
+    "Longitude": -1.670922
+  },
+  {
+    "Postcode": "SO14 0RD",
+    "Name": "Surgery 43",
+    "Latitude": 50.9075888,
+    "Longitude": -1.4010145
+  },
+  {
+    "Postcode": "SO52 9EL",
+    "Name": "Surgery 44",
+    "Latitude": 50.976396,
+    "Longitude": -1.4382541
+  },
+  {
+    "Postcode": "SO19 9PL",
+    "Name": "Surgery 45",
+    "Latitude": 50.8949731,
+    "Longitude": -1.3681135
+  },
+  {
+    "Postcode": "SO53 2DH",
+    "Name": "Surgery 46",
+    "Latitude": 50.984431,
+    "Longitude": -1.3661503
+  },
+  {
+    "Postcode": "SO19 4ED",
+    "Name": "Surgery 48",
+    "Latitude": 50.9122537,
+    "Longitude": -1.3665788
+  },
+  {
+    "Postcode": "SO15 5SE",
+    "Name": "Surgery 50",
+    "Latitude": 50.9261006,
+    "Longitude": -1.4363704
+  },
+  {
+    "Postcode": "BH24 1XP",
+    "Name": "Surgery 51",
+    "Latitude": 50.8513799,
+    "Longitude": -1.7699067
+  },
+  {
+    "Postcode": "SO15 5RU",
+    "Name": "Surgery 52",
+    "Latitude": 50.9235731,
+    "Longitude": -1.4216829
+  },
+  {
+    "Postcode": "SO15 3HU",
+    "Name": "Surgery 53",
+    "Latitude": 50.9171619,
+    "Longitude": -1.4263898
+  },
+  {
+    "Postcode": "SO14 1PT",
+    "Name": "Surgery 56",
+    "Latitude": 50.9035578,
+    "Longitude": -1.3932842
+  },
+  {
+    "Postcode": "SO19 9AR",
+    "Name": "Surgery 57",
+    "Latitude": 50.8949546,
+    "Longitude": -1.3583187
+  },
+  {
+    "Postcode": "SO50 8LT",
+    "Name": "Surgery 59",
+    "Latitude": 50.9586299,
+    "Longitude": -1.3266802
+  },
+  {
+    "Postcode": "SO16 2NN",
+    "Name": "Surgery 60",
+    "Latitude": 50.9414505,
+    "Longitude": -1.3805207
+  },
+  {
+    "Postcode": "SO40 3JD",
+    "Name": "Surgery 61",
+    "Latitude": 50.9209924,
+    "Longitude": -1.4924618
+  },
+  {
+    "Postcode": "SO19 6DE",
+    "Name": "Surgery 62",
+    "Latitude": 50.9076616,
+    "Longitude": -1.334051
+  },
+  {
+    "Postcode": "SO51 7LB",
+    "Name": "Surgery 63",
+    "Latitude": 50.999525,
+    "Longitude": -1.4828873
+  },
+  {
+    "Postcode": "SO40 3DB",
+    "Name": "Surgery 64",
+    "Latitude": 50.9172607,
+    "Longitude": -1.4883381
+  },
+  {
+    "Postcode": "SO18 3HY",
+    "Name": "Surgery 65",
+    "Latitude": 50.9341614,
+    "Longitude": -1.3560048
+  },
+  {
+    "Postcode": "SO17 1QF",
+    "Name": "Surgery 68",
+    "Latitude": 50.9321089,
+    "Longitude": -1.4000939
+  },
+  {
+    "Postcode": "SO15 5GN",
+    "Name": "Surgery 69",
+    "Latitude": 50.920544,
+    "Longitude": -1.4266876
+  },
+  {
+    "Postcode": "SO45 6AG",
+    "Name": "Surgery 71",
+    "Latitude": 50.8699885,
+    "Longitude": -1.3982614
+  },
+  {
+    "Postcode": "SO45 5GQ",
+    "Name": "Surgery 72",
+    "Latitude": 50.8637209,
+    "Longitude": -1.4009756
+  },
+  {
+    "Postcode": "SO30 3JL",
+    "Name": "Surgery 74",
+    "Latitude": 50.9334996,
+    "Longitude": -1.3439734
+  },
+  {
+    "Postcode": "SO18 6PJ",
+    "Name": "Surgery 75",
+    "Latitude": 50.9216508,
+    "Longitude": -1.3537361
+  },
+  {
+    "Postcode": "SO19 9GE",
+    "Name": "Surgery 78",
+    "Latitude": 50.8930053,
+    "Longitude": -1.3747258
+  },
+  {
+    "Postcode": "SO16 6YD",
+    "Name": "SGH Pathology Lab",
+    "Latitude": 50.9334501,
+    "Longitude": -1.4348996
+  },
+  {
+    "Postcode": "SO41 9FE",
+    "Name": "Surgery 77",
+    "Latitude": 50.767029,
+    "Longitude": -1.5460948
+  },
+  {
+    "Postcode": "SO41 3AY",
+    "Name": "Surgery 73",
+    "Latitude": 50.759183,
+    "Longitude": -1.5361541
+  },
+  {
+    "Postcode": "SO53 4LL",
+    "Name": "Surgery 55",
+    "Latitude": 50.9851667,
+    "Longitude": -1.4017814
+  },
+  {
+    "Postcode": "SO41 6AG",
+    "Name": "Surgery 58",
+    "Latitude": 50.7868949,
+    "Longitude": -1.6032568
+  },
+  {
+    "Postcode": "SO50 4HL",
+    "Name": "Surgery 15",
+    "Latitude": 50.9768165,
+    "Longitude": -1.3499802
+  },
+  {
+    "Postcode": "SO17 2JG",
+    "Name": "Surgery 49",
+    "Latitude": 50.9229644,
+    "Longitude": -1.3831676
+  },
+  {
+    "Postcode": "SO50 9GE",
+    "Name": "Surgery 47",
+    "Latitude": 50.9673961,
+    "Longitude": -1.3649236
+  },
+  {
+    "Postcode": "SO19 9DJ",
+    "Name": "Surgery 76",
+    "Latitude": 50.8952438,
+    "Longitude": -1.3721532
+  },
+  {
+    "Postcode": "BH24 1NY",
+    "Name": "Surgery 23",
+    "Latitude": 50.8447423,
+    "Longitude": -1.780686
+  },
+  {
+    "Postcode": "SO15 2GR",
+    "Name": "Surgery 70",
+    "Latitude": 50.9103615,
+    "Longitude": -1.408359
+  },
+  {
+    "Postcode": "SO18 2AB",
+    "Name": "Surgery 38",
+    "Latitude": 50.9256798,
+    "Longitude": -1.3622204
+  },
+  {
+    "Postcode": "SO21 1HG",
+    "Name": "Surgery 67",
+    "Latitude": 51.0727202,
+    "Longitude": -1.2719706
+  },
+  {
+    "Postcode": "SO23 8DS",
+    "Name": "Surgery 54",
+    "Latitude": 51.0640662,
+    "Longitude": -1.3091176
+  },
+  {
+    "Postcode": "SO43 7JP",
+    "Name": "Surgery 24",
+    "Latitude": 50.8709043,
+    "Longitude": -1.5780009
+  }
+]
