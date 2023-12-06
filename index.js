@@ -9,7 +9,13 @@ configDotenv();
 require("./db-connection");
 //require("./db-insertion");
 
-app.use(cors());
+const corsOptions = {
+    origin: 'http://localhost:3000', // Replace with your frontend URL
+    optionsSuccessStatus: 200, // Some legacy browsers choke on 204
+  };
+  
+app.use(cors(corsOptions));
+
 app.use(express.json());
 app.use(router);
 
