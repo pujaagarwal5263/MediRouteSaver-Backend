@@ -16,7 +16,7 @@ const helloServer = (req,res) => {
 }
 
 const getOrderBasedOnRouteID = async (req, res) => {
-    const postcodeData = fs.readFileSync('./postcodeinfo.json', 'utf8');
+    const postcodeData = fs.readFileSync('data/postcodeinfo.json', 'utf8');
     const Postcode_Encoding = JSON.parse(postcodeData);
 
     const data = req.body.state;

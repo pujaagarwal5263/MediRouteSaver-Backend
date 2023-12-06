@@ -5,7 +5,7 @@ const RouteArray = require("./models/routeArraySchema")
 
 async function insertData() {
   try {
-    const filePath = path.join(__dirname, 'data.json');
+    const filePath = path.join(__dirname, 'data/data.json');
     const rawData = fs.readFileSync(filePath);
     const data = JSON.parse(rawData);
 
@@ -20,7 +20,7 @@ insertData();
 
 async function insertRouteData() {
   try {
-    const filePath = path.join(__dirname, 'routedata.json');
+    const filePath = path.join(__dirname, 'data/routedata.json');
     const rawData = fs.readFileSync(filePath);
     const data = JSON.parse(rawData);
 
