@@ -9,8 +9,8 @@ function encodeTimeToMinutes(timeString) {
   return hours * 60 + minutes;
 }
 
-const apiUrl = "http://127.0.0.1:5000/predict-route";
-const apiUrl1 = "http://127.0.0.1:5000/predict-vehicle";
+const apiUrl = "https://mediroute-ml.onrender.com/predict-route";
+const apiUrl1 = "https://mediroute-ml.onrender.com/predict-vehicle";
 const RouteArrayByIdx = [
   "RTE01",
   "RTE02",
