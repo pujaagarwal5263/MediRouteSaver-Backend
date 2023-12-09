@@ -10,8 +10,7 @@ require("./db-connection");
 //require("./db-insertion");
 
 const corsOptions = {
-    origin: 'https://medi-route-saver.vercel.app/', // Replace with your frontend URL
-    optionsSuccessStatus: 200, // Some legacy browsers choke on 204
+    origin: 'https://medi-route-saver.vercel.app', // Replace with your frontend URL
   };
   
 app.use(cors(corsOptions));
